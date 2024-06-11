@@ -29,7 +29,7 @@ final public class KeyboardSettings {
     /// Need to show change keyboard button
     /// This button is located in `Categories` bottom view.
     /// Default is false.
-    public var needToShowAbcButton: Bool = false
+    public var needToShowAbcButton: Bool = true
 
     public var needToShowDeleteButton: Bool = true
     
